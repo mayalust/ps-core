@@ -1,0 +1,19 @@
+{
+  "name": "ps-core",
+  "version": "1.0.0",
+  "description": "proudsmart core",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayalust/ps-core.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayalust/ps-core/issues"
+  },
+  "homepage": "https://github.com/mayalust/ps-core#readme"
+}
